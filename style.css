@@ -186,7 +186,7 @@ nav {
 
 .hero-content {
     background-color: var(--surface);
-    padding: 40px;
+    padding: 20px;
     border-radius: var(--border-radius);
     border: var(--border-width) solid var(--outline);
     box-shadow: var(--shadow-offset) var(--shadow-offset) 0 var(--outline);
@@ -346,7 +346,7 @@ nav {
     overflow: hidden;
     background-color: var(--outline);
     color: var(--primary);
-    padding: 15px 0;
+    padding: 13px 0;
     width: 100%;
     margin-top: 60px;
 }
